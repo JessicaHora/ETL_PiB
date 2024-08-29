@@ -4,7 +4,7 @@ O objetivo é criar um script automatizado que pode extrair a lista de todos os 
 
 os dados disponíveis estao na URL abaixo:
 
-![URL]('https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29)
+[https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29](https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29)
 
 -  As informações precisam ser disponiveis como **CSV**
 -  Como uma Tabela em um arquivo de banco de dados com atributos **country** e **GDP_USD_billion**
