@@ -22,5 +22,5 @@ os dados disponíveis estao na URL abaixo:
 
 ## Resultado da Query:
 
-![query](/Users/jessicahora/project_IBM/img/query.png)
+![query](https://github.com/JessicaHora/ETL_PiB/blob/main/img/query.png)
 
